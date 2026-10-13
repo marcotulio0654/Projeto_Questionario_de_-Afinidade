@@ -99,11 +99,11 @@ int main()
         }
     }
 
-    printf("\NMaior afinidade: %s (%d pontos)", areas[max], pontos[max]);
+    printf("\nMaior afinidade: %s (%d pontos)", areas[max], pontos[max]);
 
            for (int i = 0; i < 4; i++)
 {
-    printf("%s: %d", areas[i], pontos[i]);
+    printf("\n%s: %d", areas[i], pontos[i]);
 }
 
 return 0;
