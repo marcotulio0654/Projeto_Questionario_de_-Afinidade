@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1791508198 source:c:\marcom\20261008_github\atividade_perguntas_de_afinidade\atividade_perguntas_de_afinidade\main.c
+	<stdio.h>
+	<stdlib.h>
+
