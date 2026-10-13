@@ -5,7 +5,7 @@
 * Você se sente confortável em realizar trabalhos em altura?
 * Você tem facilidade com identificação de cores/símbolos e seus significados?
 * você sabe que materiais são condutores?
-* 
+* Você reage bem sob pressão e fica calmo se acontecer algum imprevisto?
 
 #MECANICA
 * Você tem paciência e facilidade para lidar com ferramentas manuais?
@@ -13,8 +13,8 @@
 * Você tem facilidade com desmontar um objeto e montar novamente do mesmo jeito?
 * Você tem receio com se sujar de óleo, graxa e/ou semelhantes?
 * Você tem bom ouvido para identificar leves alterações em ritmos ou tons?
-* você tem bons olhos para achar defeitos mesmo como ambiente te atrapalhando?
-* 
+* Você tem bons olhos para achar defeitos mesmo como ambiente te atrapalhando?
+* Você tem disposição física para trabalhar em posições desconfortáveis?
 
 #TI
 * Você consegue lidar bem com passar várias horas do dia sentado em frente a um computador?
@@ -23,7 +23,7 @@
 * Você tem paciência de testar e aprender por conta própria?
 * Você tem facilidade se colocar em situação de pensar sobre um assunto como se não soubesse nada sobre ele?
 * você tem paciência para achar pequenos erros?
-* 
+* Você tem paciência em ajudar pessoas que não tem conhecimento técnico e repetir a mesma coisa várias vezes? 
 
 #CULINARIA
 * Você consegue lidar bem com críticas diretas e prazos apertados?
@@ -32,4 +32,4 @@
 * Você tem facilidade em trabalhar em grupo?
 * Você consegue trabalhar sob grandes exigências e/ou criticas diretas?
 * você tem um nariz bom para sentir aromas?
-* 
+* Você tem criatividade para criar pratos/receitas novas?
