@@ -106,5 +106,6 @@ int main()
     printf("\n%s: %d", areas[i], pontos[i]);
 }
 
+scanf("%d", pontos);
 return 0;
 }
