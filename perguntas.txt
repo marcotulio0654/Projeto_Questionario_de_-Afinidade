@@ -4,7 +4,7 @@
 * Você tem disciplina para trabalhar constantemente utilizando EPIs
 * Você se sente confortável em realizar trabalhos em altura?
 * Você tem facilidade com identificação de cores/símbolos e seus significados?
-* 
+* você sabe que materiais são condutores?
 * 
 
 #MECANICA
@@ -13,7 +13,7 @@
 * Você tem facilidade com desmontar um objeto e montar novamente do mesmo jeito?
 * Você tem receio com se sujar de óleo, graxa e/ou semelhantes?
 * Você tem bom ouvido para identificar leves alterações em ritmos ou tons?
-* 
+* você tem bons olhos para achar defeitos mesmo como ambiente te atrapalhando?
 * 
 
 #TI
@@ -22,7 +22,7 @@
 * Você gosta de jogos que exigem pensamento lógico?
 * Você tem paciência de testar e aprender por conta própria?
 * Você tem facilidade se colocar em situação de pensar sobre um assunto como se não soubesse nada sobre ele?
-* 
+* você tem paciência para achar pequenos erros?
 * 
 
 #CULINARIA
@@ -31,5 +31,5 @@
 * Você consegue trabalhar em um ambiente quente por muito tempo?
 * Você tem facilidade em trabalhar em grupo?
 * Você consegue trabalhar sob grandes exigências e/ou criticas diretas?
-* 
+* você tem um nariz bom para sentir aromas?
 * 
