@@ -1,32 +1,33 @@
 #ELETRICA
 * Você tem disciplina para seguir regras rígidas de segurança?
-* A água conduz eletricidade?
-* Você tem disciplina para trabalhar constantemente utilizando EPIs
+* Você prefere um trabalho com atividades práticas e manuais em vez de passar o dia todo digitando ou escrevendo? 
+* Você tem disciplina para trabalhar constantemente utilizando EPIs (Equipamento de Proteção Individual)? 
 * Você se sente confortável em realizar trabalhos em altura?
 * Você tem facilidade com identificação de cores/símbolos e seus significados?
-* você sabe que materiais são condutores?
+* Quando algo para de funcionar na sua casa, você prefere tentar consertar sozinho antes de chamar um profissional? 
 * Você reage bem sob pressão e fica calmo se acontecer algum imprevisto?
-* A tomada residencial padrão no Brasil possui tensão de 127V ou 220V?
+* Você prefere a certeza de seguir normas técnicas rigorosas a ter que improvisar soluções no trabalho? 
 
+2 7 9 14 21 
 #MECANICA
 * Você tem paciência e facilidade para lidar com ferramentas manuais?
-* Andar com o carro sempre na reserva de combustível pode estragar a bomba de combustível?
+* Você consegue visualizar 10 computadores encima desta mesa?
 * Você tem facilidade com desmontar um objeto e montar novamente do mesmo jeito?
 * Você tem receio com se sujar de óleo, graxa e/ou semelhantes?
 * Você tem bom ouvido para identificar leves alterações em ritmos ou tons?
 * Você tem bons olhos para achar defeitos mesmo como ambiente te atrapalhando?
 * Você tem disposição física para trabalhar em posições desconfortáveis?
-* A embreagem serve para ligar e desligar o motor das rodas?
+* Você tem o hábito de fazer pequenos consertos ou manutenções na sua própria casa ou veículo? 
 
 #TI
 * Você consegue lidar bem com passar várias horas do dia sentado em frente a um computador?
-* Usar a mesma senha para todas as minhas contas na internet é seguro?
+* Usar a mesma senha para todas as minhas contas na internet NÂO é seguro?
 * Você gosta de jogos que exigem pensamento lógico?
 * Você tem paciência de testar e aprender por conta própria?
 * Você tem facilidade se colocar em situação de pensar sobre um assunto como se não soubesse nada sobre ele?
 * você tem paciência para achar pequenos erros?
 * Você tem paciência em ajudar pessoas que não tem conhecimento técnico e repetir a mesma coisa várias vezes? 
-* Um SSD é geralmente mais rápido para ler e gravar dados do que um HD tradicional?
+* Se um amigo tem um problema no celular ou computador, você é a pessoa que tenta ajudar a resolver? 
 
 #CULINARIA
 * Você consegue lidar bem com críticas diretas e prazos apertados?
