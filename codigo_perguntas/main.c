@@ -10,9 +10,10 @@ int main()
     int pontos_mem = 0;
     char *areas_mem = "";
     char nome[20] = "";
-    int r = 0;
+    char r = 0;
     int max = 0;
     int total = 32;
+    int loop = 0;
     do
     {
         char *areas[4] = {"TI", "Mecanica", "Eletrica", "Culinaria"};
@@ -54,7 +55,6 @@ int main()
             /*34*/
             /*35*/
             /*36*/
-
         };
         int pontos[32] =
         {
@@ -63,7 +63,6 @@ int main()
             /*03*/0,
             /*04*/0
         };
-
         int area_pergunta[32] =
         {
             /*01*/2,
@@ -102,18 +101,16 @@ int main()
             /*34*/
             /*35*/
             /*36*/
-
         };
-
         printf("Olá, bem-vindo à pesquisa de afinidade com os cursos de TI, Culinaria, Mecanica e Elétrica\n\n");
         printf("Por gentileza informe o seu nome:\n");
         fgets(nome,sizeof(nome),stdin);
         nome[strcspn(nome, "\n")] = '\0';
-        printf("\n\n%s para prosseguir responda com 1 quando sua resposta for 'Sim' e 0 quando sua resposta for 'Não'.\nVamos começar!\n\n",nome);
+        printf("\n\n%s para prosseguir responda com a letra 'S' para concordar ou a letra 'N' para discordar.\nVamos começar!\n\n",nome);
         for (int i = 0; i < total; i++)
         {
             printf("\n\n%d) %s ", i + 1, pergunta[i]);
-            scanf("%d", &r);
+            scanf(" %c", &r);
             if (r == 99)
             {
                 printf("\n\n____________\n\nObrigado a todos os participantes\n\n____________\n\n");
@@ -121,14 +118,15 @@ int main()
             }
             else
             {
-                if (r != 0 && r != 1)
+                if (r != 'n' && r != 's' && r != 'N' && r != 'S')
                 {
                     printf("entrada inválida");
                     i = i-1;
                 }
                 else
                 {
-                    pontos[area_pergunta[i]] += r;
+                    if(r == 's' || r == 'S')
+                    pontos[area_pergunta[i]] ++;
                 }
             }
         }
@@ -151,22 +149,25 @@ int main()
         }
         printf("\n\n____________\n\n");
         printf("\n%s seu resultado apresentou maior afinidade com: %s (%d pontos)\n\n", nome, areas[0], pontos[0]);
-
         for (int i = 0; i < 4; i++)
         {
             for(int j = 0; j < pontos[i]; j++)
             {
                 printf("##");
             }
-            printf(" - %s: %d\n", areas[i], pontos[i]);
+            printf(" - %s: %d pontos\n", areas[i], pontos[i]);
         }
         printf("\n\n____________\n\nObrigado pela participação\n\n____________\n\n");
-        printf("Digite 1 para um novo teste");
-        scanf("%s", &pontos);
+        for (int i=0 ; i<1 ; i++)
+        {
+            printf("Digite 1 para um novo teste");
+            scanf(" %d", &loop);
+            if (loop != 1) i--;
+        }
         while(getchar() != '\n');
         system("cls");
     }
-    while(r != 99);
+    while(loop != 0);
     scanf("%d", pontos);
     return 0;
 }
