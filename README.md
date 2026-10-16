@@ -78,5 +78,5 @@ Durante a aplicação dos testes com os demais alunos de outros cursos do SENAI 
 >"...que legal..."
 
 ## Imagens
-![Tela inicial](<Captura de tela-1.png>)
-![Foto Participantes](<foto_participantes.jpg>)
+![Tela inicial](<https://github.com/marcotulio0654/Projeto_afinidade_curso/blob/main/fotos/Captura%20de%20tela-1.png>)
+![Foto Participantes](<https://github.com/marcotulio0654/Projeto_afinidade_curso/blob/main/fotos/foto_participantes.jpg>)
