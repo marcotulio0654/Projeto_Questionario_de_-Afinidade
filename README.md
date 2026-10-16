@@ -24,7 +24,7 @@ Com o objetivo de ajudar os demais alunos do [SENAI](https://www.fiemg.com.br/es
 [Marco Rodrigues](https://github.com/marcotulio0654)
 
 ## Descrição do projeto
-Nomeado como **Questionado de Afinidade** o projeto foi formulado na linguagem C utilizando a aplicação CodeBlocks.
+Nomeado como **Questionario de Afinidade** o projeto foi formulado na linguagem C utilizando a aplicação CodeBlocks.
 
 As interações dos usuarios são realizadas a partir de respostas sim (S) ou não (N) onde são contabilizados os pontos.
 
